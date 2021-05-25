@@ -1,0 +1,32 @@
+.center {
+    max-width: 70%;
+    height: auto;
+    margin: auto;
+    display: flex;
+}
+
+.signup {
+    border: 1px solid black;
+    width: 50%;
+}
+
+.signin {
+    border: 1px solid black;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.textinputsform {
+    display: grid;
+    grid-template-columns: 50%;
+}
+
+input {
+    max-width: 50%;
+}
+
+.error {color: #FF0000;}
