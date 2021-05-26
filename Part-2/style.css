@@ -1,0 +1,45 @@
+.calculator {
+    max-width: 70%;
+    margin: auto;
+    background-color: #B6B6B6;
+    height: max-content;
+}
+
+h1 {
+    text-align: center;
+}
+
+legend {
+    text-align: center;
+}
+
+.results {
+    max-width: 70%;
+    margin: auto;
+    background-color: #B6B6B6;
+    height: max-content;
+}
+
+table {
+    width:max-content;
+    text-align: center;
+}
+
+
+#t01{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+
+#t01 tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+#t01 th {
+    background-color: black;
+    color: white;
+}
